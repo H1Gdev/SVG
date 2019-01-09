@@ -276,7 +276,36 @@ namespace Svg
 
                 if (!uri.IsAbsoluteUri)
                 {
-                    uri = new Uri(OwnerDocument.BaseUri, uri);
+                    var basePath = string.Empty;
+                    foreach (var element in ParentsAndSelf)
+                    {
+                        if (!string.IsNullOrEmpty(element.Base))
+                        {
+                            basePath = element.Base;
+                            break;
+                        }
+                    }
+
+                    if (string.IsNullOrEmpty(basePath))
+                        uri = new Uri(OwnerDocument.BaseUri, uri);
+                    else
+                    {
+                        uriString = System.IO.Path.Combine(basePath, uriString);
+                        if (uriString.Length > 65519)
+                        {
+                            //Uri MaxLength is 65519 (https://msdn.microsoft.com/en-us/library/z6c2z492.aspx)
+                            safeUriString = uriString.Substring(0, 65519);
+                        }
+                        else
+                        {
+                            safeUriString = uriString;
+                        }
+                        uri = new Uri(safeUriString, UriKind.RelativeOrAbsolute);
+                        if (!uri.IsAbsoluteUri)
+                        {
+                            uri = new Uri(OwnerDocument.BaseUri, uri);
+                        }
+                    }
                 }
 
                 // should work with http: and file: protocol urls

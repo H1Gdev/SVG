@@ -387,6 +387,13 @@ namespace Svg
             set { this.Attributes["space"] = value; }
         }
 
+        [SvgAttribute("base", SvgAttributeAttribute.XmlNamespace)]
+        public virtual string Base
+        {
+            get { return this.Attributes.GetAttribute<string>("base"); }
+            set { this.Attributes["base"] = value; }
+        }
+
         public void SetAndForceUniqueID(string value, bool autoForceUniqueID = true, Action<SvgElement, string, string> logElementOldIDNewID = null)
         {
             // Don't do anything if it hasn't changed
