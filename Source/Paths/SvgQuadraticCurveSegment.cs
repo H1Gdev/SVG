@@ -42,7 +42,7 @@ namespace Svg.Pathing
 
         public override string ToString()
         {
-            return "Q" + ControlPoint.ToSvgString() + " " + End.ToSvgString();
+            return (IsAbsolute ? "Q" : "q") + ControlPoint.ToSvgString() + " " + End.ToSvgString();
         }
     }
 }

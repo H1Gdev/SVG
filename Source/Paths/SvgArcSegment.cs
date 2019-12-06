@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Globalization;
@@ -136,7 +136,7 @@ namespace Svg.Pathing
         {
             var arcFlag = Size == SvgArcSize.Large ? "1" : "0";
             var sweepFlag = Sweep == SvgArcSweep.Positive ? "1" : "0";
-            return "A" + RadiusX.ToString(CultureInfo.InvariantCulture) + " " + RadiusY.ToString(CultureInfo.InvariantCulture) + " " + Angle.ToString(CultureInfo.InvariantCulture) + " " + arcFlag + " " + sweepFlag + " " + End.ToSvgString();
+            return (IsAbsolute ? "A" : "a") + RadiusX.ToString(CultureInfo.InvariantCulture) + " " + RadiusY.ToString(CultureInfo.InvariantCulture) + " " + Angle.ToString(CultureInfo.InvariantCulture) + " " + arcFlag + " " + sweepFlag + " " + End.ToSvgString();
         }
     }
 

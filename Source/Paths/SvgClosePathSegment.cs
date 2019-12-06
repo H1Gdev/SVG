@@ -1,4 +1,4 @@
-using System.Drawing.Drawing2D;
+﻿using System.Drawing.Drawing2D;
 
 namespace Svg.Pathing
 {
@@ -25,7 +25,7 @@ namespace Svg.Pathing
 
         public override string ToString()
         {
-            return "z";
+            return (IsAbsolute ? "Z" : "z");
         }
     }
 }

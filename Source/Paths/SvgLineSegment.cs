@@ -17,7 +17,7 @@ namespace Svg.Pathing
 
         public override string ToString()
         {
-            return "L" + End.ToSvgString();
+            return (IsAbsolute ? "L" : "l") + End.ToSvgString();
         }
     }
 }
