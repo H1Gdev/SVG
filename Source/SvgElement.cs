@@ -322,6 +322,23 @@ namespace Svg
                 return Attributes.GetInheritedAttribute(attributeName, inherited, defaultValue);
         }
 
+        private readonly Dictionary<string, TypeConverter> _attributeTypeConverters = new Dictionary<string, TypeConverter>();
+
+        private TypeConverter GetTypeConverter(string attributeName)
+        {
+            if (_attributeTypeConverters.ContainsKey(attributeName))
+                return _attributeTypeConverters[attributeName];
+
+#if USE_SOURCE_GENERATORS
+            var converter = GetProperties().Where(p => p.AttributeName.Equals(attributeName)).FirstOrDefault()?.Converter;
+#else
+            var properties = TypeDescriptor.GetProperties(GetType(), new[] { new SvgAttributeAttribute(attributeName) });
+            var converter = properties.Count > 0 ? properties[0].Converter : null;
+#endif
+            _attributeTypeConverters[attributeName] = converter;
+            return converter;
+        }
+
         /// <summary>
         /// Gets a collection of custom attributes
         /// </summary>
