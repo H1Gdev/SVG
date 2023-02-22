@@ -1,0 +1,3140 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/SVG/SVG/main",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "CONTRIBUTING.md",
+      "output": {
+        ".html": {
+          "relative_path": "CONTRIBUTING.html",
+          "hash": "f6y8hNTk3GtiMZcoCgi6QeUUk388nMVPUAokr8dZ1PE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "YinJEAxIgHGJix8AYdkMt8CUrqqTW8TlJ/jFXhMF5gg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "doc/GettingStarted.md",
+      "output": {
+        ".html": {
+          "relative_path": "doc/GettingStarted.html",
+          "hash": "OoWUFsrDJGPtAZQHW6nXVXP81Lb4W25CGy9L8nMLCZQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "doc/Q&A.md",
+      "output": {
+        ".html": {
+          "relative_path": "doc/Q&A.html",
+          "hash": "RnsgJl0p3D3uPfEODCAY44VSDFRCEosdU7MozuDDdFw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "doc/ReleaseNotes.md",
+      "output": {
+        ".html": {
+          "relative_path": "doc/ReleaseNotes.html",
+          "hash": "j4R/+tvdJHB0CSm6FSv6KDqxnD0qrXh4C8lrvZnBaCI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "doc/Samples.md",
+      "output": {
+        ".html": {
+          "relative_path": "doc/Samples.html",
+          "hash": "yomMuhF8PjZla4WFe4bOxbqjZx8xAH0rmkeU/l22Xlc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "vc9f11xt1erlCxSNO2MVyo6ny40Baj+Z1RWl5tgI/qc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.AttributeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.AttributeEventArgs.html",
+          "hash": "7L/cOm5h5KIt5iP95GqYO+ztNxXzsM2I+k4feJux5eA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ChildAddedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ChildAddedEventArgs.html",
+          "hash": "zbIwvOvqPADzDiwBNmSPt+QN1X7PzMgf5VE/xNEpB44="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ContentEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ContentEventArgs.html",
+          "hash": "MJ5bDupjPZ3yjfXrPQPceiLuGXnK0CgUNLe1f66fskk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.CoordinateParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.CoordinateParser.html",
+          "hash": "ED8oMngvURwySSOmfpI+fnTr+AO4L72X3jeLzae5hhg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.CoordinateParserState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.CoordinateParserState.html",
+          "hash": "ujidjUgdh5z3cqEL8NPPOyjEzu3qr3p/sIHFUUDOrPg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.DataTypes.SvgColourInterpolation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.DataTypes.SvgColourInterpolation.html",
+          "hash": "odjev45/kmxBL6rlKTq3eiahnOvUukTQ0DKEtKGHlNM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.DataTypes.SvgMarkerUnits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.DataTypes.SvgMarkerUnits.html",
+          "hash": "uSyYXbE024g4cCNYQYyF03V0jDbnNkpyuEaExB/nDPY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.DataTypes.SvgOrientConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.DataTypes.SvgOrientConverter.html",
+          "hash": "iWe86OoZldBfHLWrgKnqwFailuEY5wlvbU7h7Kx9Beo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.DataTypes.SvgPreserveAspectRatioConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.DataTypes.SvgPreserveAspectRatioConverter.html",
+          "hash": "3EkXGPWKMODZNDrybmlELyb0oD7vL0O7kKwn74dg1n8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.DataTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.DataTypes.html",
+          "hash": "TzrsY3+Dp1b5qbT/N57fG6kswDNRk3LAs6FPIYLt4g0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Document_Structure.SvgSymbol.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Document_Structure.SvgSymbol.html",
+          "hash": "kPEHV+p/xKAZghv4Kdd+XEGwKDO6oj5nvIBfSWpTgpE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Document_Structure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Document_Structure.html",
+          "hash": "KflNBTkstJoA7rEnBeLK3VK5vPDC7JDY6aM5RFhDqlc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.EnumBaseConverter-1.CaseHandling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.EnumBaseConverter-1.CaseHandling.html",
+          "hash": "lpm4xWT1M1fgp8Mmhkqjj7d0HKlj+FVHy2D0ligviUk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.EnumBaseConverter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.EnumBaseConverter-1.html",
+          "hash": "WbtXW5Oohn0SSEiXTfvpNex9DHioYt3s6qptC1os69I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Enums.html",
+          "hash": "xVjT0ilZe6fiwnh56/1Ms1gRJ8A/4PEQuw7zG5QelsM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Exceptions.SvgMemoryException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Exceptions.SvgMemoryException.html",
+          "hash": "7G4AzfaSFDHPE2ZXiw1PZm7hVtOLVHC+s1AyGAu8IP0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Exceptions.html",
+          "hash": "SBrBrocOwiogmsFveu9rqJc3kee4Rjbh9sw2leGRZDI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ExtensionMethods.UriExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ExtensionMethods.UriExtensions.html",
+          "hash": "rNvImU+KPKngDMauQLQTiPMAH86Q8IWk5Vtz1BLXggY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ExtensionMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ExtensionMethods.html",
+          "hash": "53MCR/yGvZAIvp1ixQ/7/GWNF16UE6U/IpE35tHMp48="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Extensions.html",
+          "hash": "UF1o1pTUt3xVxX+GE7eyPHbskrjg/IsCt4XKEENr/M0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ExternalType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ExternalType.html",
+          "hash": "RDS7UcDMF9ASaelb+NrhIyDfP3bNZDHsaXs2/Ad6aZM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ExternalTypeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ExternalTypeExtensions.html",
+          "hash": "qakMKw+Y47jLka4WgINRTSvVnLsT7el2Ea1vnoXqwQo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.BlurType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.BlurType.html",
+          "hash": "MLRH81Maq9odVMFlL17KtFC3C+cPGbDjlHZASF+irxM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.ISvgFilterable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.ISvgFilterable.html",
+          "hash": "9+fj/8XdYzdfcD7jVXMFLA9VozMvqQSXC+8N+7lInNQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.ImageBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.ImageBuffer.html",
+          "hash": "9d6Y9MwWwDFNr0pvo/Z6oWL3BYD9xsKYvlxG4ACu/i8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgBlend.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgBlend.html",
+          "hash": "E1j487lN6ElZbzTLkPTgk/VvxGtaCSKuuKoiOGIGz0I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgBlendMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgBlendMode.html",
+          "hash": "HyL1t1OraoCZd1t7tD1P3KEYM53hqMODrLUMwYxaMog="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgChannelSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgChannelSelector.html",
+          "hash": "le//svPD+ERpQSVPcLH7qnsd8vj3S5FAoNeCgkT86eM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgColourMatrix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgColourMatrix.html",
+          "hash": "BpVgZel6T5g6sas0T12Jbf0dytWPWXXDroVfFJWTxK4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgColourMatrixType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgColourMatrixType.html",
+          "hash": "Z7VQmmVzfTRCLxtpk9JeoVgsAQWxnMNHHP5wCa7ctFI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgComponentTransfer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgComponentTransfer.html",
+          "hash": "CpBqcQ6/hrlVfTCVJpejC8AgF3oToism2ZN9/VAt2Zo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgComponentTransferFunction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgComponentTransferFunction.html",
+          "hash": "of2kyPIqZJSXC2fiXWtVlU78R2Z+4MfS8rtD/7TIjwM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgComponentTransferType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgComponentTransferType.html",
+          "hash": "VHtoNxBszpFLHDpzaAIRqP8kDNmnNrsL7PcWlHZQexM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgComposite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgComposite.html",
+          "hash": "2iahCAwHMC8oDbRdlKYN5Erae+d24ontiIir5AQEC8w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgCompositeOperator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgCompositeOperator.html",
+          "hash": "3nTygnFUFKq3IaMeXp4lxHrTbqfZY09kApOKQ2RFKjs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgConvolveMatrix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgConvolveMatrix.html",
+          "hash": "o4h27trcQd60E+VAGuLfW1HDnqONRnIZSZLSauMORXA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgDiffuseLighting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgDiffuseLighting.html",
+          "hash": "j81ya+2iPv5jQZjm2KB03RJNtdwcI1ABKZEo/6lIQKk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgDisplacementMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgDisplacementMap.html",
+          "hash": "JGcyfGMPBqX+617+C8nmT74TjIOIrGEd+g9GL8WK8Ow="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgDistantLight.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgDistantLight.html",
+          "hash": "pY9/XTZ/0+/tul/pX/ysbgFmILLATU0clMz6JWofU0E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgEdgeMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgEdgeMode.html",
+          "hash": "0GAiPYoQgpC/RZ87Bnigz98QeC67rspm9wkEWtaG710="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgFilter.html",
+          "hash": "2xVKiyjLYW+5E1Ur3O0tY907T9T2vqCoGKvidUBmEIY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgFilterPrimitive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgFilterPrimitive.html",
+          "hash": "JqB/gNCWJPyJAXo2X7IVDZ56IiROP+H/etBITFVTuHI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgFlood.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgFlood.html",
+          "hash": "qEOuxKaNhlCQGXHqp/cYgtm8G7eGhQiFtTsKFxj6QbQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgFuncA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgFuncA.html",
+          "hash": "dDx4A/YEt/4Xfom9Fj4A5mPkWUgRwapmzxwjxVZxTEU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgFuncB.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgFuncB.html",
+          "hash": "LHr7YU5xQXJ9s/38Wnck001E11pLCF297IFmSobaKUg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgFuncG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgFuncG.html",
+          "hash": "HZOUqGvXpTyzCbOflSj3C+gvgcG43bW2W1EETqUwgEk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgFuncR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgFuncR.html",
+          "hash": "AMxJhsn2+dZAAFy58RB2xOz7DmC8kOnIkRF1dh9BBKM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgGaussianBlur.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgGaussianBlur.html",
+          "hash": "ygRM6QGb98ELbbIKC1ufvJLCG/KbxOmsF6llG52ajGg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgImage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgImage.html",
+          "hash": "68U4yd3II6nrbCsY41FD2AVSEviJufsXs2vb8uQrSGE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgMerge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgMerge.html",
+          "hash": "t00q19JJbvWiOOyiODnngbPdAtlCA4BjVmnyqWmqMJw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgMergeNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgMergeNode.html",
+          "hash": "4Sx0R4CcyXMgLiBTCtqKETOoNQtq0eUisc3D9ccriKE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgMorphology.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgMorphology.html",
+          "hash": "WRFtzExMeHJgutw5XqTCO4sAHX+zzzi2CjqDVVhVib4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgMorphologyOperator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgMorphologyOperator.html",
+          "hash": "os2w4e13jhq19QCZsu8YwWb7avJickSX2rwSV4FyAqA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgOffset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgOffset.html",
+          "hash": "hhzhC6WP5KS035v+92jPbre4C3UvNpFfSuiKhs73ccs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgPointLight.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgPointLight.html",
+          "hash": "7g6VaLijcFpYt4s59SdbnppXBv4Fz5u3zw2w6dSjpNQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgSpecularLighting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgSpecularLighting.html",
+          "hash": "7skX47RhmClIMPetDg9k/qzHgYPwiC/7B8aQTuwP79s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgSpotLight.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgSpotLight.html",
+          "hash": "Ipz+AmecPY8GJ7PHprzPDoVwc+r5TUDu/fw38RrIdBI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgStitchType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgStitchType.html",
+          "hash": "erP/bn9ekMXQEMdXqVoc9wf0JxT3tPjnQ5fT+hhrlxg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgTile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgTile.html",
+          "hash": "fO3EKkOISIJ8BsHyZFa3Alkf6abxdv+ldCPTMMO5C5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgTurbulence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgTurbulence.html",
+          "hash": "YBYHlk8JC5sTpXLc/uR4g5pya15jDPmUFllFAcCql+k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.SvgTurbulenceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.SvgTurbulenceType.html",
+          "hash": "nnjsFKWwOeDWWLgIjulGcbUOFvqi/1kATadWiRjtgbU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.FilterEffects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.FilterEffects.html",
+          "hash": "SuMgL57DuyqqkMZ84tNuVyAkARKWeo214if6MX06c/4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.GdiFontDefn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.GdiFontDefn.html",
+          "hash": "KrUlAJD/Uw9jPcy8898CPkvU92Izu/AP8ZhErauky3s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.IFontDefn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.IFontDefn.html",
+          "hash": "6SoCgm67gPU0h5gXfpDwYOrWBBP3Cn9unS5FHW+TW0I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.IGraphicsProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.IGraphicsProvider.html",
+          "hash": "B5iW0G4+/eLBkWGMo3uIHrv2IUl4y2Q6/3TykDxcjRQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ISvgBoundable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ISvgBoundable.html",
+          "hash": "+ZYQp1039JDkxtHf7smXtI0S3dD3gHVqF7mvpbfgawk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ISvgClipable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ISvgClipable.html",
+          "hash": "mjZbEvMYLGAoi+SDh6aLWHiT72pUtKvsl3yWHdTHEzI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ISvgDescriptiveElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ISvgDescriptiveElement.html",
+          "hash": "ty37HsYQD368082+5sBCCRQrN90FQRm9Et48VX8gH+A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ISvgNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ISvgNode.html",
+          "hash": "3SrUcGtFR6ednyUxz/EE6Srbw1tn9LhvztuBS6bJj6w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ISvgRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ISvgRenderer.html",
+          "hash": "1aszIr3nepHygv8SlT0T7lpN8UcocjDAU2wVSBVdvGs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ISvgStylable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ISvgStylable.html",
+          "hash": "NQhJpLmsR9htF4YsiUiHdxxP4s1l7rlbbdG6GiW8exw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ISvgTransformable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ISvgTransformable.html",
+          "hash": "B1Cweyw3Wa2t3O6W4zzb6cHbHawhfff3XL7CVmUNR9A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.ISvgViewPort.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.ISvgViewPort.html",
+          "hash": "24OxzrU8OZSmSrO8sL6eozDNDX66NR2OiEsxY0tWi3Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.MouseArg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.MouseArg.html",
+          "hash": "q3et5WUan9qoOcmP4HUCOfWnnDGiFG1EVdaq2kb97oY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.MouseScrollArg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.MouseScrollArg.html",
+          "hash": "0UUk5+sk6ytXPN27cxgYxFCmSkKc4mqA9YMFaCHMNnI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.NonSvgElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.NonSvgElement.html",
+          "hash": "pbg1BM2i7yk6ODQn/wOFIwZK7rHIWetgI2CRYv1vvnA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.NumState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.NumState.html",
+          "hash": "htEHwN0rBUlZvf5rI0jtzB80xbgS3vOU7TSQPhVieSw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.PathStatistics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.PathStatistics.html",
+          "hash": "aFZX8v6YtOQONsAAZi+NToxzd+INIWjWqUfFKgt3dhY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.ISvgPathElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.ISvgPathElement.html",
+          "hash": "ek5aTatBQbdh0fs5vSrTvFMxvxmik5mpyhlmRDJ5I0E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgArcSegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgArcSegment.html",
+          "hash": "eZs/8VPXyAydeqlhCdEpkXVDB7wF9WcCwbEcvRkYkPc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgArcSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgArcSize.html",
+          "hash": "3nuMGE28TIaikPLCtZOKi9/DnnHLN9cnRAXx/nb2TJk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgArcSweep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgArcSweep.html",
+          "hash": "bcoEk3M+dJ9YY/E6Lhuel+s11mzPAiL/tJil7XEbKEA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgClosePathSegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgClosePathSegment.html",
+          "hash": "jayx8MHsawEAD9qMqKpL3brmaxzgbN+bLNi0Fd43WSg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgCubicCurveSegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgCubicCurveSegment.html",
+          "hash": "HZ8GX4fM1v5YOYPVNyeuVVlRbjkdKq96jEN9Ol697NQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgLineSegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgLineSegment.html",
+          "hash": "4s1hN4ReGJ6vADIC4vUNCiOr9ixc20V21SJmW6pdFf0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgMoveToSegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgMoveToSegment.html",
+          "hash": "MZGNRk+uPu2Ib3e4TOzbKYjn//M8trrV8E3AdkNyvq4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgPathSegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgPathSegment.html",
+          "hash": "CLuRO2oePGMD8LMFw6NvnwwiDOEnOASEAGLLLdyWTuM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgPathSegmentList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgPathSegmentList.html",
+          "hash": "XUmjinWskJXpaczbIOeSOKIbnAlBAc3Ob32YTj+TjwU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.SvgQuadraticCurveSegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.SvgQuadraticCurveSegment.html",
+          "hash": "/wCoyGL+DfgvtRi9TdLNYnXhSwVHjQ7v3m/hEyWzwYE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Pathing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Pathing.html",
+          "hash": "Rx8nCiV43WgQsMYmkJWX5gibpglullGHSfcU8/9BIHM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.PointFExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.PointFExtensions.html",
+          "hash": "HtaRM6uhqHHbhXKdGJ0B3r+nFb9HLq20AkSZQzOwajs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SVGArg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SVGArg.html",
+          "hash": "zVZ/lHoO1QG0Z4+iu2G0/wMxOA7YWh8DQ2u87nBS90I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.StringArg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.StringArg.html",
+          "hash": "jGv4EjyMZheRWjPQ8qLDBxE5YjXgz6pJ9oUPSys0BcA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgAnchor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgAnchor.html",
+          "hash": "oZrtHrDRYlf+wIS7hGv3RDWDHcdzCtO9XQKMBeDu1dQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgAspectRatio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgAspectRatio.html",
+          "hash": "rEj9aGe7QT5Co7LqX7auPH7QdshajLht2axFj/4nw40="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgAttributeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgAttributeAttribute.html",
+          "hash": "AOx1s4p7qJ0g3rVkAWXxSYJoGcHyieLE1wc4pA6/BzY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgAttributeCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgAttributeCollection.html",
+          "hash": "S3xZlFtyKp5n5ygPu0X+qf264h8GXX0eV49NSz+DEHM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgBlendModeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgBlendModeConverter.html",
+          "hash": "WDbHv6NXU8L46boPIy4V6/LwPTEVQW8oIkmzgZkxpe4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgChannelSelectorConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgChannelSelectorConverter.html",
+          "hash": "BKAniqYlY3fQK93CceByE1DVeAlHu1wvbcWwEeGRwRo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgCircle.html",
+          "hash": "5hfF9yno/NETCd6Vd1n56I5pTfFejvMyCDQbSfXhPPE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgClipPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgClipPath.html",
+          "hash": "thheUBmNLMmNIN2GwwlbVvZH29qyKh+Zhnh/BtvUoBs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgClipRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgClipRule.html",
+          "hash": "eEj7cyNPr0gM3aSpmtUyvrvW0br2kfWqHXryzXj/Eco="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgClipRuleConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgClipRuleConverter.html",
+          "hash": "+F5i08a6X5A89k1b7p1x8O2QoiS8DA0P8Z3VMIRvC40="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgColourConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgColourConverter.html",
+          "hash": "SBbq5n+KESAsDeZsj4vuC04C7TI+s9XCUXF3yzwXk/c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgColourInterpolationConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgColourInterpolationConverter.html",
+          "hash": "LDHFEQPIk3vVV5QKUpWndQkpNyITUCPeDlsUYlYa0cM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgColourMatrixTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgColourMatrixTypeConverter.html",
+          "hash": "fQDh9E24uYKadEKBuQyPr+WQQ3MdqATfTVg/ULhe6zQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgColourServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgColourServer.html",
+          "hash": "Mh43VxG4GVwB/7//EwM5BskvS4lLzjakuzqgPt7dpP4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgComponentTransferTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgComponentTransferTypeConverter.html",
+          "hash": "9ydghJfMiGSzMvCE9phYCcYn71ek9JrqeSo5cU6dD/E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgCompositeOperatorConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgCompositeOperatorConverter.html",
+          "hash": "MCEU6OIhIRzsN1QlC5f+1SE5g2RdPObzXQL5k78C1wI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgContentNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgContentNode.html",
+          "hash": "9tJQ0Zp5MaGq1i+jL6qGkIBAe3OGKCT4ffyv+5I9mLQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgCoordinateUnits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgCoordinateUnits.html",
+          "hash": "sWfd8c1diV5LfhR4h9Co8iGtnMSJ1h7sgAnzgPxVFWM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgCoordinateUnitsConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgCoordinateUnitsConverter.html",
+          "hash": "eHvrVxdnUDYoBlfh09a8kYtJzuNAZ2STes6POVIG3ow="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgCustomAttributeCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgCustomAttributeCollection.html",
+          "hash": "DMM58P9xpBC08n8gzjxRMW2UUImMU0PF44I51c2RVQM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgDeferredPaintServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgDeferredPaintServer.html",
+          "hash": "zhBaqgo4dcIgNChUVgivFMhk+A4NoO8PzNftWqrIZ/s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgDefinitionList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgDefinitionList.html",
+          "hash": "COOroAPEHJRFhTS/06u7oqOj8ku08aFEsQZyE00H5KE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgDescription.html",
+          "hash": "m8SoGuH7q0MseCBN+ZrbT25mjBjzfFw8+OPsEKbFrGs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgDocument.html",
+          "hash": "y8j+qvLPDcY8K/0fGOCfj+9vqLpxYgxWyQl/vh+cF1c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgDocumentMetadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgDocumentMetadata.html",
+          "hash": "XGLwgNBjUQUmixFuhXnkEIDM1OFvWAaGRb4dFKGBQ+U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgEdgeModeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgEdgeModeConverter.html",
+          "hash": "Ih6OZUzPwtA0V6XiUTfA6xvAj2O8EYLiYUZvI1YRkec="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgElement.EventAttributeTuple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgElement.EventAttributeTuple.html",
+          "hash": "xncF3RiRruIEjCYjmqN4E1alfhb2o+3rKbWDRKL6JEY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgElement.PropertyAttributeTuple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgElement.PropertyAttributeTuple.html",
+          "hash": "TetR9LUTFRYmtLqrE0L3XEIoyHJT/PLGE8kZ/5dz4yU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgElement.html",
+          "hash": "Ei3uV5AR0ND4Rs7SjUU2FKRk2ONtYGM9TBKg8Y3WZMQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgElementAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgElementAttribute.html",
+          "hash": "Fh3opDIEXvRqLnukPKWGBaDXoN+3lZwAVNEiRYxBS/8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgElementCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgElementCollection.html",
+          "hash": "Vu8zJlQ5kz7jEmdfcPoLeMAUmMEV3HgRtBBGQjl8KwE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgElementEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgElementEventArgs.html",
+          "hash": "5EMoaFD1O2omRyzgHlIfp8WJV6SwZh6dGVlnNtqwFrw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgElementIdManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgElementIdManager.html",
+          "hash": "mreoydqEh1EfXHq65EtGX/29QqIfG0X/zd6gXEA1fpA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgElementStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgElementStyle.html",
+          "hash": "C0Wa3+/dTvvrP7n99+8beQlPbPmKfBwNe6tflpKRkxk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgEllipse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgEllipse.html",
+          "hash": "qsqE1h3us2mqRgFyZ2h+gOYr4Lfcq/W1sPmyI618/PE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgException.html",
+          "hash": "eUZEaQHHW8aXHPh76QxsdEB4pvqixrxlWj5GLM2miDI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgExtentions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgExtentions.html",
+          "hash": "jPHtsiATfjNkzKTcPE24OV/VlChefgDjGu73Enyc97w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFallbackPaintServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFallbackPaintServer.html",
+          "hash": "txuavfyalBPcab7pOid3Gfg7LLjQZmnRSxDcXlH2u58="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFillRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFillRule.html",
+          "hash": "i/QahfkCm2w3JBQE5kMpmmK7sym0EfNTRn1r8zv/u/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFillRuleConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFillRuleConverter.html",
+          "hash": "+ummu2O4msRDybE1hfsVsZZ5nTPkPXx+qWCq/IGnz8Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFont.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFont.html",
+          "hash": "ao6PUXpCgSH3jNr7ytpObn188EE5VeiRp687Gb11TY4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontDefn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontDefn.html",
+          "hash": "kklv7yyVTQuVKD6YQusDAysQaOPii3iHQzAKuNQgP8w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontFace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontFace.html",
+          "hash": "xtewMMLmfx98zZpyZt+T+EfQ4PvcotFlDtcro4UxUvA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontFaceSrc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontFaceSrc.html",
+          "hash": "R8yjiWNueGTiaCHEvCFIP5H3RWwJFGDMF9T5wM+yO9E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontFaceUri.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontFaceUri.html",
+          "hash": "YIo8gdlvSTDNsoi3fTF93f1/UErBDWDDjQmuRQwKDPM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontManager.html",
+          "hash": "5t1cKLTvWMgtXR408jfm8HsUI6G4qAf0W80ZlADtp4g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontStretch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontStretch.html",
+          "hash": "eoQ0bE7VCbsiWTv1D9FM2bdJRuTJgB4Qcu3Dcc6x6FI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontStretchConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontStretchConverter.html",
+          "hash": "ywJuWy+JUQvk/VfpzYVzmRbB5xK3dPtEumjGzolkns8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontStyle.html",
+          "hash": "3zIcxuYU71yEVVG1k2/zXp2zC8TZltcwhjq+PO1zi+s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontStyleConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontStyleConverter.html",
+          "hash": "t2IU5iHdIljTmMbEt53ugeB5EVOEuTDSKYqtcJRbPjw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontVariant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontVariant.html",
+          "hash": "pstRfvJlitpa7jPyi7Xdx7vqgpoMAkc3pw5UKHdsCm0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontVariantConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontVariantConverter.html",
+          "hash": "Mi/cRv5YWV1rJaI8iyVXGO2F077ShRwdLrxtcj6ZXRg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontWeight.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontWeight.html",
+          "hash": "njyYAFdH4SuyngQYoLT+SBMJQtD5nQUul4kvz1t1AqI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFontWeightConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFontWeightConverter.html",
+          "hash": "Ji+u/5wi+jhF8He7dV2KOFAOO9j1xmv+zRKpcue76q8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgForeignObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgForeignObject.html",
+          "hash": "S27ky/in0avjqBUxMEc8pYxdm8Ii1YJocyt/ZmsKiss="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgFragment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgFragment.html",
+          "hash": "1YIHVPhqb7kpBgEgV1AI4wEE6nmv1u8di8rZvarvXE8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgGdiPlusCannotBeLoadedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgGdiPlusCannotBeLoadedException.html",
+          "hash": "8MI58b3jJvcGpZGSkXOZ7Amn5+j24gEUAvA32diy5Kg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgGlyph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgGlyph.html",
+          "hash": "3MRq4KkKEr65Bs5vxhwGTYq5iS6/nMvdmuysAe1rQmQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgGradientServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgGradientServer.html",
+          "hash": "KbsKAruix4mj79hYVLooy8C7hwkHuhkluAAQFNqoRtQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgGradientSpreadMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgGradientSpreadMethod.html",
+          "hash": "x+tvbem90kbRcz1vVqcuqWLT3x/JqCiafi6ERWBYxj0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgGradientSpreadMethodConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgGradientSpreadMethodConverter.html",
+          "hash": "fCIgOYaRGRPkkYPsZ67K3gQauXOsMzzYCl6g2C8TM2g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgGradientStop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgGradientStop.html",
+          "hash": "OQxvmsjamKkmlrINPlXYLXBqN3nyM3kdDdyikfRr670="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgGroup.html",
+          "hash": "yjW6BxZSaZGF613K66wIDAMaGSVrONH+kVTeFyIfshU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgHorizontalKern.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgHorizontalKern.html",
+          "hash": "bhe1CNwE0TLF+Hg/dOG7b3RWWt/z2qBRNcCetoo+eFE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgIDException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgIDException.html",
+          "hash": "EBNg4kx/1d5HLxLjUcPt79y8oX09SigwJ+KLDQxk5NU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgIDExistsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgIDExistsException.html",
+          "hash": "6/7Cccwjs2kTnwd8ylvyZnKc3DyaPIr1Yy40uOqJYeI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgIDWrongFormatException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgIDWrongFormatException.html",
+          "hash": "EvCNMtwHGpkCg0rsCHgt6KaaCMl2qBlYFHEN7dCAk2w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgImage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgImage.html",
+          "hash": "WuXHSqQDgvEvj7s5gEK2oDKiThcslVnlrSmQFUmz+/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgImageRendering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgImageRendering.html",
+          "hash": "hQmf25CNseKp72fssr6o/4KyciGz/d2YvjN8nZkhSBQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgImageRenderingConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgImageRenderingConverter.html",
+          "hash": "bw5Hp1KWmU6aFZpiTHrGWmqRk324lHtncSlPdB7p42g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgKern.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgKern.html",
+          "hash": "Lt1n5qM3g3XQh7NON0da4Crsm0RwwqwsuSO5S1T9CyY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgLine.html",
+          "hash": "BklD2cOMGrlCrryS5iEqWePzn+pNbksM0ae1bokeogk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgLinearGradientServer.GradientPoints.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgLinearGradientServer.GradientPoints.html",
+          "hash": "8AJuoJdRg4DqLvmfRb1dtlFiG0TCV2p5CuHauAZYkHk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgLinearGradientServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgLinearGradientServer.html",
+          "hash": "4zvnGLl3VIw4lLG0xpAJ+Fzs3FZiZXsA32BsQq9/FLw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgMarker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgMarker.html",
+          "hash": "WG5sbL+i7e3zcKcgN0jwNKed0dsYTCzoSqRH/8IEY/0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgMarkerElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgMarkerElement.html",
+          "hash": "/c6Xn/vKqmAUxI196K2O78e1ar+sdrizC8BaPoG+y/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgMarkerUnitsConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgMarkerUnitsConverter.html",
+          "hash": "KLgwH/4OX/rQUX3rfd4QPIG0rs0SXdyGoGVhdbZsbvU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgMask.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgMask.html",
+          "hash": "XQGqpfJu9c+4kVlp0R3P10H1QyKBu6RPC7qNErxHOq0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgMissingGlyph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgMissingGlyph.html",
+          "hash": "ySBzsGFXGfekTQBPCn0EyzHkpE/xdZB9swakYtG72is="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgMorphologyOperatorConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgMorphologyOperatorConverter.html",
+          "hash": "+BtgfcZPUqIzCCJw+th4u7teWebO1LMVLOwfkX3Y+p0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgNamespaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgNamespaces.html",
+          "hash": "l4mx1x7ZwwY+oFDwzF57cjyItdeqvQuErQrd/WzPe7o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgNumberCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgNumberCollection.html",
+          "hash": "PhTcrn6KdogM22VxXNNE4E5v+zAxhtIFLISaJ3NJYZ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgNumberCollectionConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgNumberCollectionConverter.html",
+          "hash": "pOUFpG8PhfWEYCsUDbcrDnFIaRv87MfJveN1v3wh0NE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgOrient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgOrient.html",
+          "hash": "EUOQBTHpFRt+93/NTvAS6xlgKxj6Qq11eKHAJhNYUj8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgOverflow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgOverflow.html",
+          "hash": "B/Y1gelWVf3x/kYAOmdEoNi447pU7qW1C2D0ANO4k/s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgOverflowConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgOverflowConverter.html",
+          "hash": "bQGXvQp8arCbkiTdyOIEG/+b9EPzl/j4u3HXz3KghyU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPaintServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPaintServer.html",
+          "hash": "vP9cmYblyDcXnv+U/iih/nOHKzYJgTrAr0gno2rj6bs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPath.html",
+          "hash": "YdOlXiDLIkty8zs51eIXcw9NbR/Gd6KPpBJe3PaQ48s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPathBasedElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPathBasedElement.html",
+          "hash": "RNazoLRUg0jnwlMtRFrHb+rMKYivrVQPVq6ZaM8Yovg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPathBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPathBuilder.html",
+          "hash": "fdnZKPc7EpTukkSrPNJsgWrYvKfFZay6d12Mf60X+LU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPatternServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPatternServer.html",
+          "hash": "FfeOxqXkaeHdCDtyNrKKHW4Y5qmGfBG2ileIBimwCSo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPoint.html",
+          "hash": "gejGOZVGPe48NbQoXZ+ULMCDc2O4JnLz5XWWImnURXE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPointCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPointCollection.html",
+          "hash": "/OCVyTkArPTzO+YDWJpL1t+l+Q0Slx1vdpwaJzeZoms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPolygon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPolygon.html",
+          "hash": "HgOUTBGt4bKpLLSX08UWAjaS89idXuEdX2+IWqoEkRk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPolyline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPolyline.html",
+          "hash": "YjL3rE5wS8iifiMhtfB8OznyJpXJ14bF/boQZZO8ZFA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgPreserveAspectRatio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgPreserveAspectRatio.html",
+          "hash": "JYsU9XFesk2JuLrVOFSwvOw6HuWpZqg9GuQ0b2o2blQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgRadialGradientServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgRadialGradientServer.html",
+          "hash": "O65v7CpF7AscuunQvscqHlRCXOc1unTdvhLinOy4/aw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgRectangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgRectangle.html",
+          "hash": "oxoP8LrqstOlA1qntQ2r9QVfzNKH5hV1rN+RpYI6Ubs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgRenderer.html",
+          "hash": "6LPrFVG2PGdGFsGu95GYOU0aUQtFvNr0rKw9AX9UUl4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgScript.html",
+          "hash": "/An2Q9xQn8qkge0QekSs9Rzwyl0VDSWyUOCIRsneJzA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgShapeRendering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgShapeRendering.html",
+          "hash": "wGuHtfFMKgXxy620t4RNPiwF7uj/m2atvfuwn19ByWE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgShapeRenderingConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgShapeRenderingConverter.html",
+          "hash": "QLaUFiKA7CnWDRXr/tmkZS1EedaeAAKeP33W2g65AGo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgStitchTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgStitchTypeConverter.html",
+          "hash": "wLZyN4C2OMQt5Pf2Aaln6M2mSDUj3I/lBYLhrV+G/rI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgStrokeLineCap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgStrokeLineCap.html",
+          "hash": "czf8rR6m5Z5WFvQKQgQyQrccpLp6NvjQFgbGLQvG81I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgStrokeLineCapConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgStrokeLineCapConverter.html",
+          "hash": "MEgIQPl+rEKHUSsPUXf8O+y32G8ApgL173Y5pvC+lpU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgStrokeLineJoin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgStrokeLineJoin.html",
+          "hash": "7p5lL5KT//eIKG8xi5knXxH20F/jH43LFnS1w53MD/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgStrokeLineJoinConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgStrokeLineJoinConverter.html",
+          "hash": "x4JEcYhSr/YCK/cqrBHTMhxpI6meGmvGpaA+vkfyMHg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgSwitch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgSwitch.html",
+          "hash": "4a1nid9OeJRHfRuQvyTlXChIe8cNz01yVc64sXizTnw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgSymbol.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgSymbol.html",
+          "hash": "aEZ2+fAhP7LNyqzve24zjZDPlBViA4vLZkbeiZtvyKs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgText.html",
+          "hash": "JDof/PeTwwqarZQCZAjwgVPduxqwyWv6DG7aK/XLddA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextAnchor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextAnchor.html",
+          "hash": "rsiEVVaYIAVrhCD/gH/+42aXAC2frseGW5baEzEG/QE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextAnchorConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextAnchorConverter.html",
+          "hash": "VDSblDuILCzfnqUk56U71oREsTi2rquZGlumk9656yg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextBase.html",
+          "hash": "IjlbP2ToXjZBjRLz1e3IiayMDUtnRBNFVHta4YFZa/k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextDecoration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextDecoration.html",
+          "hash": "nv1GBwdh4RQy5v6ihdgknKWNjSSLI1EcHzJk0VO9yWc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextDecorationConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextDecorationConverter.html",
+          "hash": "u5gGd1H5EKTwbQhMdGnVGBprwgjG38D+JzvMpgQsnU8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextLengthAdjust.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextLengthAdjust.html",
+          "hash": "ek4xt1kINWTZTHjMNlR/JRQWL79Rq7sbfXn92ZTX01M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextLengthAdjustConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextLengthAdjustConverter.html",
+          "hash": "TgTeYV/whbUKad4Jf1zAkwJDrECEedLVZHQdi0J3sCA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextPath.html",
+          "hash": "dBsS0QzHaBib+HBIdXrUK8HGS9JzfIAOQPpkOpyqyOI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextPathMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextPathMethod.html",
+          "hash": "elTmbnSYvHrTgNQ3qpj9p6OS1Tom84jifbksnoA/xnw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextPathMethodConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextPathMethodConverter.html",
+          "hash": "sZv0upKlx0Rz4pVowp92PtgNBeFo2psblj+Sk3z3p/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextPathSpacing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextPathSpacing.html",
+          "hash": "r74e2qtBtt1DWYJV2uRvTgDQtFvqa8+QN82RaMffRvQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextPathSpacingConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextPathSpacingConverter.html",
+          "hash": "CK4fWqWYXx74oAgnmQpV3/R4qNg2MxUD7+LWFRsyZHE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextRef.html",
+          "hash": "5OsAnZfN/VB2SmexpLSnsQPTuNo5VwQOK4LE3HsBfBw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextRendering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextRendering.html",
+          "hash": "mEB4xDXsepEJIJXqMkmYbsp/BdRZryUtLxI4oj7TtwQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextRenderingConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextRenderingConverter.html",
+          "hash": "Ice4ThbtckfKmvwVf/RHhLZXtesMMdPZIQcIlqcH4dI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextSpan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextSpan.html",
+          "hash": "kPbT/iq4ezYHHT5JqKESgfFFgoq48lrFNfC0BP+hamc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextTransformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextTransformation.html",
+          "hash": "vncDy7Zf9V0Wd97RLntF3Hl6/fE3RF8E/hskQzG/m/0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTextTransformationConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTextTransformationConverter.html",
+          "hash": "uN1OfeNdTq2Pe88C/FnKpoR9Vv20OtzronE+D/mnkp0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTitle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTitle.html",
+          "hash": "fL1ri0d5535xD+l43acwuezb/fNau7u1U6jbspssqAk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgTurbulenceTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgTurbulenceTypeConverter.html",
+          "hash": "n8YIdisZxiSg701A6mObfCGNRL34jHCleaU3VPFqjEg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgUnit.html",
+          "hash": "tCnbS0k73qf090WU7QCCSWQE+RMuyvoWh0SX4QK9mHs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgUnitCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgUnitCollection.html",
+          "hash": "1sjTc7xNAh+AR5KSD/cd+rJYoHUT8gmrDSbl0CtLgys="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgUnitCollectionConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgUnitCollectionConverter.html",
+          "hash": "9uuuMwBrVpwdFb0RnzwxxWt/hC+SHnRUAHDxNxVw4ts="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgUnitConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgUnitConverter.html",
+          "hash": "KkDUstYAlkbuA1zZT60evnJ+V/ry9qShz5EbzXDeLa4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgUnitType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgUnitType.html",
+          "hash": "TsooyKYUhV83S4Tdi+l573ASNK2lz3MwnGrIuRL2mtg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgUnknownElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgUnknownElement.html",
+          "hash": "N2+2w7aV1ps1Sbk3PtsZrvc8T5xb2/P8OZIdfhtsdTQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgUse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgUse.html",
+          "hash": "WAm3rWjqM2W5km9+uqnVoAJDRP0cjor1gF3qH5kcKm8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgVerticalKern.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgVerticalKern.html",
+          "hash": "TiH8rK2rAsmXDBpY+gyG1nOiiOJKUIGVWRgDD/O8xXU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgViewBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgViewBox.html",
+          "hash": "OuJm9lI5iTvXulUsEDZ02rYKD4dK2ghFzMASmrTF2Kg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgVisibility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgVisibility.html",
+          "hash": "/CWhMU513He0rlxA5nQ/03UF3NkqrDAoKtMXuS63HPs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.SvgVisualElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.SvgVisualElement.html",
+          "hash": "ro9bdod+ip7Bqqff+S2ysHi3uBoRZcEMlAqHUT2f9sI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.SvgMatrix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.SvgMatrix.html",
+          "hash": "ZsFGCElgry122yrXD6XMceSAvR267AfRpgMTFg+L9Sg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.SvgRotate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.SvgRotate.html",
+          "hash": "0i+VyJCNeGQBolQuVhL1aqQ0OB5mjrH6/yu28E4sz3E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.SvgScale.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.SvgScale.html",
+          "hash": "B2ZWc8hI/j+T+xSo22EslpUxshvkZYFGVxYGqtR5Y9s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.SvgShear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.SvgShear.html",
+          "hash": "7cR72pW5quJrdsXKwduDlp+2k1+U4FlR8XG+60GFhBI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.SvgSkew.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.SvgSkew.html",
+          "hash": "caI7Hspozoin5c67JyXUUnMJdmK1iOVr5cu1az7XKRA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.SvgTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.SvgTransform.html",
+          "hash": "UyhUsQxEvgZdGmEywsTKZDnmgf6GrkckHr/Hfher4RY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.SvgTransformCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.SvgTransformCollection.html",
+          "hash": "9ofLXeFgwUHasjr5HNVXBdN3bez/JZvZcRG1Lz9pezc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.SvgTransformConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.SvgTransformConverter.html",
+          "hash": "pSFKHBZSGbROPj3K/eH8VLOgzoQbKW9cg0NIP5zqrE0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.SvgTranslate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.SvgTranslate.html",
+          "hash": "dEANn5Y9oLKau3Qn4lyPhI2qUoy8aGYCSyv4Gg31Es8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.Transforms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.Transforms.html",
+          "hash": "NAoqKFjS/l+T11h3z99ra2D9cXWcoJW/kvRdyRz6A0o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.UnitRenderingType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.UnitRenderingType.html",
+          "hash": "yANk76/17qCbBYj4hU1qPpSCoIOO0OSqmn9JWHlGeqo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.XmlSpaceHandling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.XmlSpaceHandling.html",
+          "hash": "9VfQ76+MU7b+M2XNTPn5HzyKZd9hKq07bQWbaqi4h1s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.XmlSpaceHandlingConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.XmlSpaceHandlingConverter.html",
+          "hash": "OK91vkurUccKOh79xavQxBY35flvCtNYGUzVQHhr1SQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Svg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Svg.html",
+          "hash": "SGFcZTKsPxf/LngdKebJGhtKLm3ed5V/VxmC9jttTMA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Mt8YeIqiN0juIEG13oVTAIUpA6zvwW/ER0riI72P3wA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 7,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 248,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
