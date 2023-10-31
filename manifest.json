@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "doc/ReleaseNotes.html",
-          "hash": "FLi9gMQdLb9YXePcKddz+TQbQRQ1qB7WWioeTLgtkaI="
+          "hash": "mp922lYIyAx74PTgGhJnmWliaHGwKxsiUhQ5J+P/tuA="
         }
       },
       "is_incremental": false,
@@ -393,7 +393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.FilterEffects.ImageBuffer.html",
-          "hash": "8K+QEsEKjM6DsZZG30YslfctD9PnvzawSft5BTb4Jxw="
+          "hash": "CBFMdknxBwmsRnSlfZRx/rH5bD12CTyU2wq6kHmbazQ="
         }
       },
       "is_incremental": false,
@@ -1149,7 +1149,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.Pathing.SvgPathSegmentList.html",
-          "hash": "hEw5r7M6n4P5on8hhQOntsXXlsr0rAeuDEz+nEHqSDs="
+          "hash": "mzGRW+Z9u9S2SvTpG2oBemo9vk5v80xSx3fiVE01uyQ="
         }
       },
       "is_incremental": false,
@@ -1257,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.SvgAttributeCollection.html",
-          "hash": "aeyWFMthBem4LwFO4Hoba3ek0C6EA5XJNje4tES6Hhk="
+          "hash": "tOz0z+ERCz742f36wTUBmi4klciPJIsPc0VtkUoaQ9U="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.SvgCustomAttributeCollection.html",
-          "hash": "VGSLmYADKLrlYd/QJtZ2z3Q6sP+TthB+d+o4J7aoWEo="
+          "hash": "uzKT87DLOGzU9DT/V7rr/Pm7os5THCZY07d5q0z7Hn0="
         }
       },
       "is_incremental": false,
@@ -1557,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.SvgElementCollection.html",
-          "hash": "N/pAjhNR1UEpHWdhcCihEnsM3KszEhHchXW+mk3qpac="
+          "hash": "nffMNI5laolX9aveFIGivDlaRqvXHybBg2DFNgdaPVk="
         }
       },
       "is_incremental": false,
@@ -1737,7 +1737,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.SvgFontManager.html",
-          "hash": "M3KdWqCNASIE8zAaUpoKTDBikEZzx+RbRs6jYXUMtms="
+          "hash": "ntJfzhG2Cztf3KOY195IyBodop93TM6x/9RCzGYi2D8="
         }
       },
       "is_incremental": false,
@@ -1893,7 +1893,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.SvgGradientServer.html",
-          "hash": "/UlHToIIdejLbzrstGlNN8NabaXnF0v1UJEY8RasuyE="
+          "hash": "ImWTKqNx0gExm4UAMrL6gZQgb8lpNm/TMFrba89J89Y="
         }
       },
       "is_incremental": false,
@@ -2169,7 +2169,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.SvgNumberCollection.html",
-          "hash": "RCubWny1gl3WssRpFFNAtHAVwevCTnqWApTF1Kn1sCA="
+          "hash": "u0D+x83PTHsrandf5myXPmmrD3CNUObyb3KhTn8qz3U="
         }
       },
       "is_incremental": false,
@@ -2301,7 +2301,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.SvgPointCollection.html",
-          "hash": "9H9mPw5G+kMwaqBBWoZjNKxAoqSc7sbtnuC44ky8V50="
+          "hash": "DdeHfxMEv6IqXYL9LydKqp8XuaRmPr0k50FTbn/EI3k="
         }
       },
       "is_incremental": false,
@@ -2769,7 +2769,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.SvgUnitCollection.html",
-          "hash": "9pq5/savkH2X1UvCdHZRf82z5kXuYBeTto0cCRF7/1E="
+          "hash": "KEf3ugeD4h2K9XNkY9cSqr269XID8f4phY60WKoy1sU="
         }
       },
       "is_incremental": false,
@@ -2889,7 +2889,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.Transforms.SvgMatrix.html",
-          "hash": "/pMnqQar9UUo6XEAKOXvF6PaDyrBOt6dCTI+nClRkuw="
+          "hash": "vKEW3uCWcGO6tp2TnYKnPKQH5p2srU5STRTXoP+7Bx4="
         }
       },
       "is_incremental": false,
@@ -2961,7 +2961,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Svg.Transforms.SvgTransformCollection.html",
-          "hash": "aonEI1TvEH0UPRENs6WO6LA5Hp4QmKEfO6OhcYVMFeA="
+          "hash": "551j/9h+XEobXOTz4UJ0f/TYWGKqQxIMsc2LYRsWfss="
         }
       },
       "is_incremental": false,
